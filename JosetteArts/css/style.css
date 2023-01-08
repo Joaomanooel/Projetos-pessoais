@@ -158,7 +158,11 @@ html,body{
 	width: 350px;
 	height: 350px;
 }
-
+.section-22{
+	padding: 90px  2%;
+	margin-right: 30px;
+	margin-left: -10px;
+}
 .section-2{
   margin: 20px;
   width: 100%;
@@ -167,6 +171,12 @@ html,body{
   max-height: 60%;
 }
 
+.section-22 h2{
+	text-align: center;
+	color: #462663;
+	font-weight: normal;
+	padding-bottom: 50px;
+}
 
 .box{
 	position:relative;
@@ -345,7 +355,7 @@ html,body{
 
 }
 
-@media screen and (max-width: 425px){
+@media screen and (max-width: 500px){
 	
 .container-list:hover{
 	width: 519px;
@@ -399,9 +409,6 @@ html,body{
 
 	/*Opinião Clientes*/
 
-
-
-
 .box{
 	width: 230px ;
 	height: 160px;
@@ -418,6 +425,14 @@ html,body{
 	color: black;
 }
 
+}
+
+@media screen and (max-width:375px){
+	.section-22{
+	padding: 0  2%;
+	margin-right: 0px;
+	margin-left: -34px;
+}
 }
 
 @media screen and (max-width: 320px){
