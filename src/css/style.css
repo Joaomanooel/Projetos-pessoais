@@ -256,7 +256,10 @@ body{
 	.cabecalho{
 		padding: 30px;
 	}
-
+	.cabecalho .logo img{
+		width: 240px;
+		height: 80px;
+	}
 	.home{
 		flex-direction: column;
 		align-items: center;
