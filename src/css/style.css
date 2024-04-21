@@ -168,7 +168,7 @@ body{
 
 
 .projetos .projeto h3{
-	background-color: #ff00b6;
+	background-color: #ff00b7ab;
 	width: 100%;
 	padding-left: 20px;
 	padding-bottom: 10px;
@@ -178,7 +178,7 @@ body{
 }
 
 .projetos .projeto .informacoes-projeto{
-	background-color:#040203;
+	background-color:#040203c4;
 	position: absolute;
 	top: 0;
 	width: 100%;
