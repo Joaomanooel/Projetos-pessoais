@@ -130,6 +130,16 @@ body{
 	animation: gradient-animation 5s ease infinite;
 }
 
+
+
+.slike{
+	display: flex;
+	min-height: calc(100vh - 125px);
+	align-items: center;
+	gap: 50px;
+	justify-content: space-between;
+}
+
 .projetos{
 	padding: 70px 0 70px;
 }
